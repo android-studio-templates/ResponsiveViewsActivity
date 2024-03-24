@@ -1,0 +1,3 @@
+# ResponsiveViewsActivity
+
+### Android Studio Template
